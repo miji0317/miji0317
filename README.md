@@ -9,7 +9,7 @@
 
   ![Gmail](https://img.shields.io/badge/-mijiunknown@gmail.com-%23F06B66?style=flat&logo=Gmail&logoColor=white)<br/>
   [![velog](https://img.shields.io/badge/-blog-%2320C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@kim_unknown_)
-  ![Instagram](https://img.shields.io/badge/-@kim_unknown_-%23DC4096?style=flat&logo=Instagram&logoColor=white)
+  ![Instagram](https://img.shields.io/badge/-@kim__unknown__-%23DC4096?style=flat&logo=Instagram&logoColor=white)
 
 
   안녕하세요!<br/>
