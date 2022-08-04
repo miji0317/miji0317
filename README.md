@@ -12,7 +12,7 @@
   ![Instagram](https://img.shields.io/badge/-@kim_unknown_-%23DC4096?style=flat&logo=Instagram&logoColor=white)
 
 
-  안녕하세요!
+  안녕하세요!<br/>
   프론트엔드 개발자를 꿈꾸는 김미지입니다.
 
   ### Tech Stack🛠️
