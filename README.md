@@ -7,9 +7,10 @@
 
   ### About Me👩‍💻
 
-  ![Gmail](https://img.shields.io/badge/-mijiunknown@gmail.com-%23F06B66?style=flat&logo=Gmail&logoColor=white)<br/>
-  [![velog](https://img.shields.io/badge/-blog-%2320C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@kim_unknown_)
+  ![Gmail](https://img.shields.io/badge/-mijiunknown@gmail.com-%23F06B66?style=flat&logo=Gmail&logoColor=white)
+  [![velog](https://img.shields.io/badge/-blog-%2320C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@kim_unknown_)<br/>
   ![Instagram](https://img.shields.io/badge/-@kim__unknown__-%23DC4096?style=flat&logo=Instagram&logoColor=white)
+  [![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=Notion&logoColor=white)](https://kim-unknown.notion.site/Kim-Unknown-29cb461a6f99492a848633172d638205)
 
 
   안녕하세요!<br/>
