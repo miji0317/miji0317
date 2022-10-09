@@ -7,9 +7,8 @@
 
   ### About Me👩‍💻
 
-  ![Gmail](https://img.shields.io/badge/-mijiunknown@gmail.com-%23F06B66?style=flat&logo=Gmail&logoColor=white)<br/>
+  ![Gmail](https://img.shields.io/badge/-mijiunknown@gmail.com-%23F06B66?style=flat&logo=Gmail&logoColor=white)
   [![velog](https://img.shields.io/badge/-blog-%2320C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@kim_unknown_)
-  [![Notion](https://img.shields.io/badge/-Notion-%23000000?style=flat&logo=Notion&logoColor=white)](https://kim-unknown.notion.site/Kim-Unknown-29cb461a6f99492a848633172d638205)
 
 
   안녕하세요!<br/>
@@ -18,11 +17,17 @@
   ### Tech Stack🛠️
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=white)
   ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=React&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-%2300DC82?style=flat&logo=Vue.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=Node.js&logoColor=white)
+  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-%234FC08D?style=flat&logo=Nuxt.js&logoColor=white)
   <br/>
   ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=CSS3&logoColor=white)
+  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=Sass&logoColor=white)
   ![styled-components](https://img.shields.io/badge/-styled--components-%23DB7093?style=flat&logo=styled-components&logoColor=white)
+  <br/>
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%237952B3?style=flat&logo=Bootstrap&logoColor=white)
+  ![Bulma](https://img.shields.io/badge/-Bulma-%2300D1B2?style=flat&logo=Bulma&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white)
 
 </div>
