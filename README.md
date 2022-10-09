@@ -13,7 +13,7 @@
 
 
   안녕하세요!<br/>
-  프론트엔드 개발자를 꿈꾸는 김미지입니다.
+  프론트엔드 개발자 김미지입니다.
 
   ### Tech Stack🛠️
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=JavaScript&logoColor=white)
